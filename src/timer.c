@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: MIT
 
 #include "box2d/base.h"
+#include <stddef.h>
 
 #if defined( _WIN32 )
 
